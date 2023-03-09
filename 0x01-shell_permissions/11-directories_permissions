@@ -1,2 +1,2 @@
 #!/bin/bash
-chod -R ugo+x
+chod -R ugo+x .
